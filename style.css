@@ -88,6 +88,7 @@ img{
     height: 23px;
     width: 23px;
     border-radius: 50%;
+    alignment:counter;
 }
 a:hover{
   background-color: #00ff00;
