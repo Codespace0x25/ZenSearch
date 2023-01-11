@@ -30,6 +30,7 @@ button:hover{
     background-color: #00ff00;
     color: #000; 
 }
+
 img{
     position: absolute;
     left: 50%;
@@ -37,6 +38,10 @@ img{
     transform: translate(-50%,-50%);
     height: 257px;
     width: 257px;
+    @media handheld { 
+        width: 128.5px;
+        Height: 128.5px;
+ }
 }
 .pro{
     background-color: #00ff00;
