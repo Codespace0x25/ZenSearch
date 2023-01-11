@@ -35,6 +35,8 @@ img{
     left: 50%;
     top: 30%;
     transform: translate(-50%,-50%);
+    hight:400px;
+    whith:400;
 }
 .pro{
     background-color: #00ff00;
