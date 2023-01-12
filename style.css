@@ -38,10 +38,6 @@ img{
     transform: translate(-50%,-50%);
     height: 200px;
     width: 200px;
-    @media handheld { 
-        width: 100px;
-        Height: 1005px;
- }
 }
 .pro{
     background-color: #00ff00;
