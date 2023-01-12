@@ -36,11 +36,11 @@ img{
     left: 50%;
     top: 30%;
     transform: translate(-50%,-50%);
-    height: 257px;
-    width: 257px;
+    height: 200px;
+    width: 200px;
     @media handheld { 
-        width: 128.5px;
-        Height: 128.5px;
+        width: 100px;
+        Height: 1005px;
  }
 }
 .pro{
