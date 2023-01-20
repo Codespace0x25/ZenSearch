@@ -1,6 +1,7 @@
 
 input,button{
     background-color: rgba(0, 0, 0,50%);
+    color: #00ff00;
 }
 
 .srchb{
@@ -17,9 +18,11 @@ input{
     color: #00ff00;
     height: 23px;
     width: 300px;
-    border-radius: 8px; 
+    border-radius: 8px;
+    
 }
-button{
+img{ position: absolute; left: 50%; top: 30%; transform: translate(-50%,-50%); height: 200px; width: 200px; }
+.go{
     color: #00ff00;
     height: 23px;
     width: 42px;
@@ -30,14 +33,11 @@ button:hover{
     background-color: #00ff00;
     color: #000; 
 }
-
-img{
+.im{
     position: absolute;
     left: 50%;
     top: 30%;
     transform: translate(-50%,-50%);
-    height: 200px;
-    width: 200px;
 }
 .pro{
     background-color: #00ff00;
@@ -91,7 +91,6 @@ img{
     height: 23px;
     width: 23px;
     border-radius: 50%;
-    text-align: center;
 }
 a:hover{
   background-color: #00ff00;
@@ -103,4 +102,10 @@ a:hover{
     top: 0%;
     transform: translate(-50%,0%);
     color: #00ff00;
+}
+div{
+  position:absolute;
+  left: 50%;
+  top: 100%;
+  transform: translate(-50%,-100%);
 }
