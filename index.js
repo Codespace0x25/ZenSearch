@@ -64,3 +64,6 @@ function currentTime() {
 }
 
 currentTime();
+function github(){
+  window.open('https://github.com/minecraftteet','_self');
+};
