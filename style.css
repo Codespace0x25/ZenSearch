@@ -109,3 +109,5 @@ div{
   top: 100%;
   transform: translate(-50%,-100%);
 }
+.crad{
+  border-radius: 8px;
