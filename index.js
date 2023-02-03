@@ -24,10 +24,13 @@ function amz(){
   var input = document.getElementById("tom").value;
   window.open('https://www.amazon.com/s?k='+input,'_self')
 }
+function sgh(){
+  var input = document.getElementById("tom").value;
+  window.open('https://github.com/minecraftteet/zOogle/search?q='+input,'_self')
+}
 function myFunction() {
   document.getElementById("myDropdown").classList.toggle("show");
 }
-
 window.onclick = function(event) {
   if (!event.target.matches('.dropbtn')) {
     var dropdowns = document.getElementsByClassName("dropdown-content");
