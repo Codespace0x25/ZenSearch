@@ -23,16 +23,15 @@ function red(){
 function amz(){
   var input = document.getElementById("tom").value;
   window.open('https://www.amazon.com/s?k='+input,'_self');
-};
-function fd(){
-  var input = document.getElementById("tom").value;
-  window.open('https://m.facebook.com/search/?q='+input,'_self');
-};
+}
 function sgh(){
   var input = document.getElementById("tom").value;
   window.open('https://github.com/minecraftteet/zOogle/search?q='+input,'_self');
 };
-
+function fb(){
+  var input = document.getElementById("tom").value;
+  window.open('https://m.facebook.com//search/?q='+input,'_self');
+}
 function myFunction() {
   document.getElementById("myDropdown").classList.toggle("show");
 }
