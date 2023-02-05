@@ -26,7 +26,8 @@ function amz(){
 }
 function fd(){
   var iput = document.getElementById("tom").value;
-  window.open('https://m.facebook.com/search/?q=');
+  window.open('https://m.facebook.com/search/?q='+input,'_self');
+}
 function sgh(){
   var input = document.getElementById("tom").value;
   window.open('https://github.com/minecraftteet/zOogle/search?q='+input,'_self')
