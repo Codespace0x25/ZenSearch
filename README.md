@@ -1,2 +1,4 @@
 # zOogle
-![alt text for screen readers](Imagine.PNG "Text to show on mouseover")
+![zOogle](Imagine.PNG "Text to show on mouseover")
+The best way to search the internet for stuff.
+<jd
