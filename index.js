@@ -1,5 +1,5 @@
 function casne(){
-  window.open("https://minecraftteet.github.io/zClock/",'_self');
+  window.open("https://minecraftteet.github.io/zClock/",'_self')
 }
 function go(){
     var input = document.getElementById("tom").value;
