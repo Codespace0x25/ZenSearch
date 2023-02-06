@@ -1,4 +1,6 @@
-
+function casne(){
+  window.open("https://minecraftteet.github.io/zClock/",'_self');
+}
 function go(){
     var input = document.getElementById("tom").value;
     window.open('https://google.com/search?q='+input,'_self');
