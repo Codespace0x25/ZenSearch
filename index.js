@@ -1,4 +1,4 @@
-function casne(){
+function casme(){
   window.open("https://minecraftteet.github.io/zClock/",'_self')
 }
 function go(){
