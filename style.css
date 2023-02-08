@@ -13,7 +13,7 @@ input,button{
     color: black;
 }
 body{
-    background-image: linear-gradient(90deg ,rgb(0, 255, 0),rgb(110, 0, 153),rgb(155, 0, 0));
+    background-color: rgb(0,0,0);
 }
 input{
     color: #00ff00;
