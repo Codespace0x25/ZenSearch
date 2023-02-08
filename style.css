@@ -13,7 +13,7 @@ input,button{
     color: black;
 }
 body{
-    background-image: linear-gradient(90deg ,rgb(0, 255, 0),rgb(110, 0, 153),rgb(155, 0, 0));
+    background-image: linear-gradient(365deg ,rgb(0, 255, 0),rgb(110, 0, 153),rgb(155, 0, 0));
 }
 input{
     color: #00ff00;
@@ -72,6 +72,7 @@ button:hover{
   left: 98%;
   top: 42px;
   transform: translate(-98%);
+  text-align: center;
 }
 .dropdown-content a {
   color:#00ff00;
