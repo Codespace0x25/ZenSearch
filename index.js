@@ -34,6 +34,10 @@ function fb(){
   var input = document.getElementById("tom").value;
   window.open('https://m.facebook.com//search/?q='+input,'_self');
 }
+function wallm(){
+  var input = document.getElementById("tom").value;
+    window.open('https://www.walmart.com/search?q='+input,'_self');
+}
 function myFunction() {
   document.getElementById("myDropdown").classList.toggle("show");
 }
