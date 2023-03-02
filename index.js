@@ -38,6 +38,10 @@ function wallm(){
   var input = document.getElementById("tom").value;
     window.open('https://www.walmart.com/search?q='+input,'_self');
 }
+function apple(){
+  var input = document.getElementById("tom").value;
+    window.open('https://www.apple.com/us/search/'+input,'_self');
+}
 function myFunction() {
   document.getElementById("myDropdown").classList.toggle("show");
 }
