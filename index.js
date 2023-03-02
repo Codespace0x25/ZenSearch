@@ -41,6 +41,7 @@ function wallm(){
 function apple(){
   var input = document.getElementById("tom").value;
    window.open('https://www.apple.com/us/search/'+imput,'_self');
+}
 function myFunction() {
   document.getElementById("myDropdown").classList.toggle("show");
 }
