@@ -1,4 +1,5 @@
 
+
 input,button{
     background-color: rgba(0, 0, 0,50%);
     color: #00ff00;
@@ -16,11 +17,11 @@ input,button{
     .mobile-img
         {
            display: block;
-           background-image: url(AD0873AE-1435-4D7E-A49B-61CF0D9845D3.jpeg);
+           background-image: url(88E5A852-7679-4B46-A79F-D68A7D0156F1.png);
            visibility: visible;  
     }
     .pc-img {
-         display: none;
+           background-image: url(AD0873AE-1435-4D7E-A49B-61CF0D9845D3.jpeg);
     }
 }
 input{
