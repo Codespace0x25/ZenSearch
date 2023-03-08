@@ -15,7 +15,7 @@ input,button{
     color: black;
 }
 body{
-    background-image: url(AD0873AE-1435-4D7E-A49B-61CF0D9845D3.jpeg);
+    background-image: linear-gradient (365deg ,rgb (0, 255, 0),rgb (110, 0, 153),rgb (155, 0, 0));
 }
 input{
     color: #00ff00;
