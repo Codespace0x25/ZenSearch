@@ -80,6 +80,7 @@ button:hover{
 }
 .dropdown-content a {
   color:#00ff00;
+  text-decoration: none;
   display: flex;
 }
 .dropdown a:hover {background-color: #00ff00;}
