@@ -1,12 +1,9 @@
-
 function casme(){
   window.open("https://minecraftteet.github.io/zClock/",'_self')
 }
 function go(){
     var input = document.getElementById("tom").value;
-    window.open('https://google.com/search?q='+input,'_self')
-
-
+    window.open('https://google.com/search?q='+input,'_self');
 }
 document.addEventListener('keydown', function(event) {
     if(event.keyCode == 13) {
@@ -87,4 +84,3 @@ currentTime();
 function github(){
   window.open('https://github.com/minecraftteet','_self');
 };
-
