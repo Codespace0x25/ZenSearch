@@ -1,15 +1,15 @@
-import { uuidv4 } from 'https://jslib.k6.io/k6-utils/1.4.0/index.js';
-function unit(udio){
- const unio = uuidv4();
- return unio
-}
+//import { uuidv4 } from 'https://jslib.k6.io/k6-utils/1.4.0/index.js';
+//function unit(udio){
+// const unio = uuidv4();
+// return unio
+//}
 function casme(){
   window.open("https://minecraftteet.github.io/zClock/",'_self')
 }
 function go(){
     var input = document.getElementById("tom").value;
     window.open('https://google.com/search?q='+input,'_self');
-    localStorage.setItem(input, unit());
+//    localStorage.setItem(input, unit());
 
 
 }
