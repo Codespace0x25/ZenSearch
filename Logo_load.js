@@ -1,3 +1,3 @@
 Function regeler(){
-    document.getElementById('myImage').src='pic_bulbon.gif
+    document.getElementById('logo').src='pic_bulbon.gif
 }
