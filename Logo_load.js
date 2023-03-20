@@ -1,4 +1,5 @@
+var img = document.getElementById('logo')
 Function regeler(){
-    document.getElementById('logo').src='Icon.png';
+    img.src='Icon.png';
 };
 regeler()
