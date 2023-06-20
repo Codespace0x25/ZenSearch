@@ -9,9 +9,15 @@ function prid() {
 function runt() {
     img.src = "Icon.png"
 }
+function cris() {
+    img.src = "IMG_1345.png"
+}
 console.log(mun);
 if (mun == 5) {
     prid()
 } else {
-    runt()
+    if (11 == mun) {
+        cris()}
+    else {
+        runt()}
 }
