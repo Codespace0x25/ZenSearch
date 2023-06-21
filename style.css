@@ -15,7 +15,7 @@ input,button{
     color: black;
 }
 body{
-    min-height:100vh
+    min-height:100vh;
     background-image: url("BG-z.png");
     background-size:cover;
     background-position: center;
