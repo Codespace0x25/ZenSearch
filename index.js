@@ -1,6 +1,3 @@
-function sleep(ms) {
-    return new Promise(resolve => setTimeout(resolve, ms));
-}
 function casme(){
   window.open("https://minecraftteet.github.io/zClock/",'_self')
 }
