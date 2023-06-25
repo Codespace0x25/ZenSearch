@@ -1,8 +1,11 @@
-
+function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
 function casme(){
   window.open("https://minecraftteet.github.io/zClock/",'_self')
 }
 function go(){
+  sleep(5000)
     var input = document.getElementById("tom").value;
     window.open('https://duckduckgo.com/'+input,'_self');
 }
