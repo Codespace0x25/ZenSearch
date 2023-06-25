@@ -2,7 +2,6 @@ function casme(){
   window.open("https://minecraftteet.github.io/zClock/",'_self')
 }
 function go(){
-    await sleep(50000)
     var input = document.getElementById("tom").value;
     window.open('https://duckduckgo.com/'+input,'_self');
 }
