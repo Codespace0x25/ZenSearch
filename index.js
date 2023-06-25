@@ -7,6 +7,9 @@ function casme(){
 function go(){
     await sleep(50000)
     var input = document.getElementById("tom").value;
+    if ("" == input){
+        break
+    }
     window.open('https://duckduckgo.com/'+input,'_self');
 }
 document.addEventListener('keydown', function(event) {
