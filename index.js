@@ -3,7 +3,7 @@ function casme(){
 }
 function go(){
     var input = document.getElementById("tom").value;
-    window.open('https://you.com/search?u='+input,'_self');
+    window.open('https://you.com/search?u='+input+"&fromSearchBar=true",'_self');
 }
 document.addEventListener('keydown', function(event) {
     if(event.keyCode == 13) {
